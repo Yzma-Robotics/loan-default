@@ -1,0 +1,7 @@
+numpy
+pandas 
+plotnine
+matplotlib
+sklearn
+firefly-python
+ipykernel
