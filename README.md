@@ -24,7 +24,7 @@ But before we get there, we need the repo - that has the data and code that we w
 
 The first step is to create a virtual environment. It's good practice to create a separate environment for each project.
 
-    $ cd loan-default
+    $ cd loan-default-app
     $ virtualenv mlcloud # mlcloud is the name of the virtual environment
 
     $ source mlcloud/bin/activate # activate the virtual environment
