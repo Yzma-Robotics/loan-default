@@ -24,7 +24,9 @@ But before we get there, we need the repo - that has the data and code that we w
 
 The first step is to create a virtual environment. It's good practice to create a separate environment for each project.
 
-    $ cd LoanDefault
+    $ pip -h # check to see if your Python installation has pip. If you see the help text for pip, excellent
+    $ pip install virtualenv
+    $ cd loan-default
     $ virtualenv mlcloud # mlcloud is the name of the virtual environment
 
     $ source mlcloud/bin/activate # activate the virtual environment
